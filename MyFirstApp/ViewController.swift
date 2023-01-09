@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     @IBAction func ChangeClicked(_ sender: Any) {
         CharImage.image = UIImage(named: "char2")
         
+        
     }
     
 
